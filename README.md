@@ -14,6 +14,7 @@ I am a student, currently studying Computer Science in Sohag University. From ve
 	- Retrofit and Coroutines
 	- Firebase
 	- MVVM
+	- Clean architecture
 
 ## What I want to do next :thinking:
 - Advanced Data Strucutre and alogrithms
