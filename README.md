@@ -1,8 +1,8 @@
-# Welcome to my github! 👋
+# Welcome to my GitHub! 👋
 
 
 ## About me :mortar_board:
-I am a student, currently studying Computer Science in Sohag University. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+I Graduated with a degree in computer and artificial intelligence. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop an excellent technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
 ## What I know :computer:
 - **Competitive Programming**
@@ -10,14 +10,14 @@ I am a student, currently studying Computer Science in Sohag University. From ve
 	- C++
 	- Java
 - **Android Development**
-	- Java, kotlin and XML :white_check_mark:
+	- Java, kotlin, and XML :white_check_mark:
 	- Retrofit and Coroutines
 	- Firebase
 	- MVVM
 	- Clean architecture
 
 ## What I want to do next :thinking:
-- Advanced Data Strucutre and alogrithms
+- Advanced structure and algorithms
 - Jetpack Compose
 
 ## Reach me 
