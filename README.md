@@ -8,7 +8,6 @@ I build reliable, scalable, and maintainable mobile applications using modern An
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Nabil-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-nabil-developer)
 [![Medium](https://img.shields.io/badge/Medium-Technical%20Articles-000000?style=flat-square\&logo=medium\&logoColor=white)](https://medium.com/@muhmmadnabil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-4285F4?style=flat-square\&logo=google-chrome\&logoColor=white)](https://muhmmadnabil.netlify.app)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:muhmmad.nabil.albadry@gmail.com)
 
 </div>
@@ -92,20 +91,6 @@ I am happy to contribute through bug fixes, documentation improvements, test cov
 * CI/CD pipelines
 * Product flavors
 
-## Current Focus
-
-I am currently working on **Koji**, a Kotlin Multiplatform e-commerce marketplace built with:
-
-* Kotlin Multiplatform
-* Jetpack Compose
-* Koin
-* Ktor
-* SQLDelight
-* Clean Architecture
-* Multi-module architecture
-
-One of its core features is an offline-first real-time chat system that supports text and voice messages, optimistic updates, socket communication, local caching, background synchronization, and delivery states such as pending, sent, delivered, read, and failed.
-
 ## Technical Writing
 
 I write about real-world mobile engineering topics, including:
@@ -119,23 +104,12 @@ I write about real-world mobile engineering topics, including:
 
 Read my articles on **[Medium](https://medium.com/@muhmmadnabil)**.
 
-## GitHub Stats
-
-<div align="center">
-
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhmmadnabil\&show_icons=true\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhmmadnabil\&layout=compact\&hide_border=true)
-
-</div>
-
 ## Let's Connect
 
 I am always interested in discussing Android development, Kotlin Multiplatform, mobile architecture, open-source projects, and challenging engineering problems.
 
 * [LinkedIn](https://www.linkedin.com/in/mohamed-nabil-developer)
 * [Medium](https://medium.com/@muhmmadnabil)
-* [Portfolio](https://muhmmadnabil.netlify.app)
 * [Email](mailto:muhmmad.nabil.albadry@gmail.com)
 
 ---
